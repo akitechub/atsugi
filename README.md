@@ -1,9 +1,8 @@
-# あつぎ協働大学
-## メディア情報文化学科
 
-### ＜担当 鈴木＞
+### ＜担当 秋廣＞
 
-<p>SchoolAI.co: The Ultimate AI Writing Tool for Educators  
+
+<p>(1) SchoolAI.co: The Ultimate AI Writing Tool for Educators  
 <a href="">https://www.schoolai.co/</a></p>
 
 
