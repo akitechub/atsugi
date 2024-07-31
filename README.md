@@ -1,5 +1,5 @@
 
-### ＜担当 秋廣＞
+### ＜担当 鈴木＞
 
 
 <p>(1) SchoolAI.co: The Ultimate AI Writing Tool for Educators  
