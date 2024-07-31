@@ -3,16 +3,11 @@
 
 ### ＜担当 鈴木＞
 
-SchoolAI.co: The Ultimate AI Writing Tool for Educators
-<p><a href="">https://www.schoolai.co/</a></p>
+<p>SchoolAI.co: The Ultimate AI Writing Tool for Educators  
+<a href="">https://www.schoolai.co/</a></p>
 
 
 
-Google マップ
-https://www.google.co.jp/maps/?hl=ja
-
-小田原市 | 第2回おだわらデジコン城下町(令和6年度)
-https://www.city.odawara.kanagawa.jp/field/municipality/digital/council/p38051.html
 
 ---
 
