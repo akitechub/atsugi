@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/31d1a10e-e772-49bc-bc5c-cc6e2307a580)
 ### ＜担当 鈴木＞
 
 
@@ -12,10 +12,9 @@
 
 ### ＜担当 秋廣＞
 
-<p>（１）<a href="https://docs.google.com/document/d/1Ut9WO3A-RqDD8ePBsbFgLWgA9UmANCn2y-5qTIYwZUk/edit?usp=sharing" target="_blank">模擬授業 メディア情報</a></p>
+<p>（１）<a href="https://www.soumu.go.jp/menu_news/s-news/01toukatsu01_02000186.html" target="_blank">総務省｜報道資料｜統計表における機械判読可能なデータの表記方法の統一ルールの策定</a></p>
 
-<p>（２）<a href="https://www.photopea.com#%7B%22files%22%3A%5B%22https%3A%2F%2Fakitec.org%2Fboy.psd%22%5D%2C%22resources%22%3A%5B%22https%3A%2F%2Fakitec.org%2Fspbrushes.abr%22%5D%7D
-" target="_blank">教材（boy.psd）</a>  ※ photopea API → psd file (hosting sakura）</p>
+
 
 <p></p>
 
