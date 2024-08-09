@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/31d1a10e-e772-49bc-bc5c-cc6e2307a580)
+<!-- ![image](https://github.com/user-attachments/assets/31d1a10e-e772-49bc-bc5c-cc6e2307a580) -->
 ### ＜担当 鈴木＞
 
 
